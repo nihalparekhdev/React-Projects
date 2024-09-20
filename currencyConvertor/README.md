@@ -1,6 +1,7 @@
 # Currency Convertor
 
-Here update the API link as and when to the latest 
-https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest/currencies/${currency}.json
+Here is the updated API link 
+https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2024-03-06/v1/currencies/${currency}.json
 
+Check for the latest if this is not working update to another link
 
